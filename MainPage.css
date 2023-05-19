@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    column-gap: 50px;
+    margin: 10px;
+    padding: 5px;
+    background-color: beige;
+  }
+li {
+  background-color: wheat;
+}
+html{
+  font-family: 'Courier New', Courier, monospace;
+}
